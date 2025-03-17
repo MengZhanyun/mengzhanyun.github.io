@@ -1,7 +1,7 @@
-# xelnagazergling.github.io
+# mengzhanyun.github.io
 
-## xelnagazergling.github.io是什么?
-是Xel'Naga Zergling的个人网站，平时会写一些奇怪的东西放这里！
+## mengzhanyun.github.io是什么?
+是mengzhanyun的个人网站，平时会写一些奇怪的东西放这里！
 
 ## 这里都有什么东西？
 * 没事干写的奇妙玩具，放到了网页的`记录库`里
